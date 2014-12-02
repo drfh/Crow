@@ -1,4 +1,5 @@
 Crow
 ====
 
-An alerting and notification system for 
+An alerting and notification system for Office IT users.
+
